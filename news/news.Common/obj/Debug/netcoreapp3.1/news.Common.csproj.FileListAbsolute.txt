@@ -1,0 +1,12 @@
+C:\TinTuc\news\news.Common\bin\Debug\netcoreapp3.1\news.Common.deps.json
+C:\TinTuc\news\news.Common\bin\Debug\netcoreapp3.1\news.Common.dll
+C:\TinTuc\news\news.Common\obj\Debug\netcoreapp3.1\news.Common.AssemblyInfoInputs.cache
+C:\TinTuc\news\news.Common\obj\Debug\netcoreapp3.1\news.Common.AssemblyInfo.cs
+C:\TinTuc\news\news.Common\bin\Debug\netcoreapp3.1\news.Common.pdb
+C:\TinTuc\news\news.Common\obj\Debug\netcoreapp3.1\news.Common.dll
+C:\TinTuc\news\news.Common\obj\Debug\netcoreapp3.1\news.Common.pdb
+C:\TinTuc\news\news.Common\obj\Debug\netcoreapp3.1\news.Common.csprojAssemblyReference.cache
+C:\TinTuc\news\news.Common\bin\Debug\netcoreapp3.1\news.Common.runtimeconfig.json
+C:\TinTuc\news\news.Common\bin\Debug\netcoreapp3.1\news.Common.runtimeconfig.dev.json
+C:\TinTuc\news\news.Common\obj\Debug\netcoreapp3.1\news.Common.csproj.CoreCompileInputs.cache
+C:\TinTuc\news\news.Common\obj\Debug\netcoreapp3.1\news.Common.genruntimeconfig.cache

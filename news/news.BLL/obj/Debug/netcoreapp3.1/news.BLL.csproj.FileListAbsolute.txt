@@ -1,0 +1,17 @@
+C:\TinTuc\news\news.BLL\bin\Debug\netcoreapp3.1\news.BLL.deps.json
+C:\TinTuc\news\news.BLL\bin\Debug\netcoreapp3.1\news.BLL.dll
+C:\TinTuc\news\news.BLL\obj\Debug\netcoreapp3.1\news.BLL.csprojAssemblyReference.cache
+C:\TinTuc\news\news.BLL\obj\Debug\netcoreapp3.1\news.BLL.AssemblyInfoInputs.cache
+C:\TinTuc\news\news.BLL\obj\Debug\netcoreapp3.1\news.BLL.AssemblyInfo.cs
+C:\TinTuc\news\news.BLL\bin\Debug\netcoreapp3.1\news.BLL.runtimeconfig.json
+C:\TinTuc\news\news.BLL\bin\Debug\netcoreapp3.1\news.BLL.runtimeconfig.dev.json
+C:\TinTuc\news\news.BLL\bin\Debug\netcoreapp3.1\news.BLL.pdb
+C:\TinTuc\news\news.BLL\bin\Debug\netcoreapp3.1\news.Common.dll
+C:\TinTuc\news\news.BLL\bin\Debug\netcoreapp3.1\news.DAL.dll
+C:\TinTuc\news\news.BLL\bin\Debug\netcoreapp3.1\news.Common.pdb
+C:\TinTuc\news\news.BLL\bin\Debug\netcoreapp3.1\news.DAL.pdb
+C:\TinTuc\news\news.BLL\obj\Debug\netcoreapp3.1\news.BLL.csproj.CoreCompileInputs.cache
+C:\TinTuc\news\news.BLL\obj\Debug\netcoreapp3.1\news.BLL.csproj.CopyComplete
+C:\TinTuc\news\news.BLL\obj\Debug\netcoreapp3.1\news.BLL.dll
+C:\TinTuc\news\news.BLL\obj\Debug\netcoreapp3.1\news.BLL.pdb
+C:\TinTuc\news\news.BLL\obj\Debug\netcoreapp3.1\news.BLL.genruntimeconfig.cache

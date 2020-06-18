@@ -1,0 +1,15 @@
+C:\TinTuc\news\news.DAL\bin\Debug\netcoreapp3.1\news.DAL.deps.json
+C:\TinTuc\news\news.DAL\bin\Debug\netcoreapp3.1\news.DAL.dll
+C:\TinTuc\news\news.DAL\obj\Debug\netcoreapp3.1\news.DAL.csprojAssemblyReference.cache
+C:\TinTuc\news\news.DAL\obj\Debug\netcoreapp3.1\news.DAL.AssemblyInfoInputs.cache
+C:\TinTuc\news\news.DAL\obj\Debug\netcoreapp3.1\news.DAL.AssemblyInfo.cs
+C:\TinTuc\news\news.DAL\bin\Debug\netcoreapp3.1\news.DAL.runtimeconfig.json
+C:\TinTuc\news\news.DAL\bin\Debug\netcoreapp3.1\news.DAL.runtimeconfig.dev.json
+C:\TinTuc\news\news.DAL\bin\Debug\netcoreapp3.1\news.DAL.pdb
+C:\TinTuc\news\news.DAL\obj\Debug\netcoreapp3.1\news.DAL.csproj.CoreCompileInputs.cache
+C:\TinTuc\news\news.DAL\obj\Debug\netcoreapp3.1\news.DAL.dll
+C:\TinTuc\news\news.DAL\obj\Debug\netcoreapp3.1\news.DAL.pdb
+C:\TinTuc\news\news.DAL\obj\Debug\netcoreapp3.1\news.DAL.genruntimeconfig.cache
+C:\TinTuc\news\news.DAL\bin\Debug\netcoreapp3.1\news.Common.dll
+C:\TinTuc\news\news.DAL\bin\Debug\netcoreapp3.1\news.Common.pdb
+C:\TinTuc\news\news.DAL\obj\Debug\netcoreapp3.1\news.DAL.csproj.CopyComplete
